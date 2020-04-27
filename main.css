@@ -4,8 +4,6 @@
 
 body {
   font-family: 'Roboto', sans-serif;
-  width: 85%;
-  margin: 0 auto;
 }
 
 button, input[type="text"] {
@@ -14,10 +12,6 @@ button, input[type="text"] {
 
 button:hover {
   cursor: pointer;
-}
-
-.hidden {
-  display: none;
 }
 
 #shopping-list-item {
